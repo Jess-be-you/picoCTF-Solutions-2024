@@ -3,8 +3,6 @@
 Using a Secure Shell (SSH) is going to be pretty important.<br>
 Can you ssh as ctf-player to titan.picoctf.net at port 63420 to get the flag?<br>
 
-# Solution
-
 KEY POINTS:<br>
 SSH, also known as Secure Shell or Secure Socket Shell, is a network protocol that gives users, particularly system administrators, a secure way to access a computer over an unsecured network.
 
